@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FuryMCLauncher/FuryMCLauncher/main/.github/profile/FuryMCLauncher.png" width="120" />
+  <img src="https://raw.githubusercontent.com/FuryMCLauncher/.github/refs/heads/main/profile/FuryMCLauncher.png" width="120" />
 </p><h1 align="center">FuryMC Launcher</h1><p align="center">
 A fork of Zalith Launcher 2 with offline login enabled by default.
 </p>---
