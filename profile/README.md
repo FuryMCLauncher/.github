@@ -18,14 +18,6 @@ This is not trying to reinvent everything — just making ZL2 usable the way it 
 
 ---
 
-Status
-
-Development is currently paused.
-
-Work will continue after the author's exams are finished.
-After that, this project will be actively developed and maintained.
-
----
 
 Credits
 
